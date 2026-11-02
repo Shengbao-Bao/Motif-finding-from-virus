@@ -1,0 +1,6 @@
+element	core_dna	core_rna	function	scope	detection	structure_context	rank_within_k	rank_global	obs_weighted	exp_weighted	fold	z	q_value	verdict
+polyA signal	AATAAA	AAUAAA	mRNA 3' 端加工	真核转录本与多种病毒 mRNA	正向 k-mer 计数	无结构要求	551	3679	82	64.61	1.267	2.16	0.154291	not distinguishable
+ARE class I	ATTTA	AUUUA	mRNA 稳定性（AU-rich element）	真核转录本，常在 3'UTR	正向 k-mer 计数	无结构要求	912	51662	126	167.332	0.754	-3.2	1	depleted (z=-3.2)
+Kozak context	GCCACC	GCCACC	翻译起始上下文	宿主 mRNA 与部分病毒 mRNA	正向 k-mer 计数	无结构要求	513	3328	68	51.6332	1.314	2.28	0.132288	not distinguishable
+SARS-CoV-2 TRS-B core	ACGAAC	ACGAAC	亚基因组转录（TRS 核心）	SARS-CoV-2 及同属冠状病毒	正向 k-mer 计数	无结构要求	2002	37640	28	28.2778	0.99	-0.05	1	not distinguishable
+influenza poly(U) tract	TTTTTT	UUUUUU	聚合酶打滑加 poly(A)，节段末端摆动区	流感 A/B 病毒各节段末端	正向 k-mer 计数	无结构要求	1	3	267	46.4424	5.698	32.36	1.14043e-105	enriched
