@@ -1,0 +1,37 @@
+record_id	accession	organism	taxon_group	segment	mol_type	length_raw	length_clean	gc_pct	n_count	n_frac	n_u_to_t	n_iupac	n_nonstd	filter_status	drop_reason	duplicate_of	cluster_id	cluster_size	weight	is_representative
+NC_004908.1	NC_004908.1	Influenza A virus (A/Hong Kong/1073/99(H9N2))	flua	4	genomic RNA	1714	1714	42.47	0	0	0	0	0	kept			C24	1	1	yes
+NC_004909.1	NC_004909.1	Influenza A virus (A/Hong Kong/1073/99(H9N2))	flua	6	genomic RNA	1418	1418	42.6	0	0	0	0	0	kept			C29	1	1	yes
+NC_004910.1	NC_004910.1	Influenza A virus (A/Hong Kong/1073/99(H9N2))	flua	1	genomic RNA	2341	2341	43.19	0	0	0	0	0	kept			C16	1	1	yes
+NC_004911.1	NC_004911.1	Influenza A virus (A/Hong Kong/1073/99(H9N2))	flua	2	genomic RNA	2328	2328	43.47	0	0	0	0	0	kept			C18	1	1	yes
+NC_004912.1	NC_004912.1	Influenza A virus (A/Hong Kong/1073/99(H9N2))	flua	3	genomic RNA	2225	2225	44	0	0	0	0	0	kept			C22	1	1	yes
+NC_007357.1	NC_007357.1	Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	flua	1	genomic RNA	2341	2341	44.25	0	0	0	0	0	kept			C17	1	1	yes
+NC_007359.1	NC_007359.1	Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	flua	3	viral cRNA	2233	2233	43.75	0	0	0	0	0	kept			C21	1	1	yes
+NC_007360.1	NC_007360.1	Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	flua	5	genomic RNA	1565	1565	46.77	0	0	0	0	0	kept			C26	1	1	yes
+NC_007361.1	NC_007361.1	Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	flua	6	viral cRNA	1458	1458	43.42	0	0	0	0	0	kept			C28	1	1	yes
+NC_026432.1	NC_026432.1	Influenza A virus (A/California/07/2009(H1N1))	flua	8	viral cRNA	863	863	43.57	0	0	0	0	0	kept			C31	1	1	yes
+NC_026433.1	NC_026433.1	Influenza A virus (A/California/07/2009(H1N1))	flua	4	viral cRNA	1701	1701	40.74	0	0	0	2	0	kept			C25	1	1	yes
+NC_026434.1	NC_026434.1	Influenza A virus (A/California/07/2009(H1N1))	flua	6	viral cRNA	1410	1410	42.13	0	0	0	0	0	kept			C30	1	1	yes
+NC_026435.1	NC_026435.1	Influenza A virus (A/California/07/2009(H1N1))	flua	2	viral cRNA	2274	2274	42	0	0	0	0	0	kept			C20	1	1	yes
+NC_026436.1	NC_026436.1	Influenza A virus (A/California/07/2009(H1N1))	flua	5	viral cRNA	1497	1497	46.23	0	0	0	1	0	kept			C27	1	1	yes
+NC_026437.1	NC_026437.1	Influenza A virus (A/California/07/2009(H1N1))	flua	3	viral cRNA	2151	2151	44.21	0	0	0	1	0	kept			C23	1	1	yes
+NC_026438.1	NC_026438.1	Influenza A virus (A/California/07/2009(H1N1))	flua	1	viral cRNA	2280	2280	44.82	0	0	0	0	0	kept			C19	1	1	yes
+NC_004102.1	NC_004102.1	Hepatitis C virus genotype 1	hcv	H77	genomic RNA	9646	9646	58.23	0	0	0	0	0	kept			C06	2	0.5	yes
+NC_009823.1	NC_009823.1	Hepatitis C virus genotype 2	hcv		genomic RNA	9711	9711	56.85	0	0	0	0	0	kept			C05	1	1	yes
+NC_009824.1	NC_009824.1	Hepatitis C virus genotype 3	hcv	NZL1	genomic RNA	9456	9456	55.65	0	0	0	0	0	kept			C08	1	1	yes
+NC_009827.1	NC_009827.1	Hepatitis C virus genotype 6	hcv	Th580	genomic RNA	9628	9628	55.39	0	0	0	0	0	kept			C07	1	1	yes
+NC_030791.1	NC_030791.1	Hepatitis C virus genotype 7	hcv	QC69	genomic RNA	9443	9443	56.84	0	0	0	12	0	kept			C09	1	1	yes
+NC_038882.1	NC_038882.1	Hepatitis C virus (isolate H77)	hcv		genomic RNA	9599	9599	58.44	0	0	0	0	0	kept			C06	2	0.5	
+PZ885296.1	PZ885296.1	Orthohepacivirus hominis	hcv	M036-H-LPP-HCV	genomic RNA	9006	9006	55.85	0	0	0	0	0	kept			C14	1	1	yes
+PZ885297.1	PZ885297.1	Orthohepacivirus hominis	hcv	M036-H-LPP-HCV	genomic RNA	9006	9006	55.85	0	0	0	0	0	kept			C15	1	1	yes
+NC_001802.1	NC_001802.1	Human immunodeficiency virus 1	hiv1		genomic RNA	9181	9181	42.12	0	0	0	0	0	kept			C11	1	1	yes
+PZ883597.1	PZ883597.1	Human immunodeficiency virus 1	hiv1	ART06A17	genomic DNA	9040	9040	41.69	0	0	0	0	0	kept			C13	1	1	yes
+PZ883600.1	PZ883600.1	Human immunodeficiency virus 1	hiv1	ART06_ST_H12	genomic DNA	9051	9051	41.66	0	0	0	0	0	kept			C12	1	1	yes
+QB137841.1	QB137841.1	Human immunodeficiency virus 1	hiv1	AK818	genomic RNA	9342	9342	42.4	0	0	0	0	0	kept			C10	1	1	yes
+MN908947.3	MN908947.3	Severe acute respiratory syndrome coronavirus 2	sars2	Wuhan-Hu-1	genomic RNA	29903	29903	37.97	0	0	0	0	0	dropped	exact_duplicate	NC_045512.2		0	0	
+MN985325.1	MN985325.1	Severe acute respiratory syndrome coronavirus 2	sars2	SARS-CoV-2/human/USA/WA-CDC-02982586-001/2020	genomic RNA	29882	29882	38	0	0	0	0	0	kept			C01	4	0.25	
+MT027064.1	MT027064.1	Severe acute respiratory syndrome coronavirus 2	sars2	SARS-CoV-2/human/USA/CA-CDC-03040142-001/2020	genomic RNA	29882	29882	37.99	0	0	0	0	0	kept			C01	4	0.25	
+MT039890.1	MT039890.1	Severe acute respiratory syndrome coronavirus 2	sars2	SNU01	genomic RNA	29903	29903	37.96	0	0	0	0	0	kept			C01	4	0.25	
+NC_045512.2	NC_045512.2	Severe acute respiratory syndrome coronavirus 2	sars2	Wuhan-Hu-1	genomic RNA	29903	29903	37.97	0	0	0	0	0	kept			C01	4	0.25	yes
+NC_012532.1	NC_012532.1	Zika virus	zika		genomic RNA	10794	10794	50.94	0	0	0	0	0	kept			C03	1	1	yes
+NC_035889.1	NC_035889.1	Zika virus	zika		genomic RNA	10808	10808	51.26	0	0	0	0	0	kept			C02	1	1	yes
+PZ154834.1	PZ154834.1	Zika virus	zika	R1061/2008	genomic RNA	10272	10272	51.26	39	0.0038	0	0	0	kept			C04	1	1	yes
